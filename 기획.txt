@@ -33,3 +33,6 @@ m : 맵
 스킬 (버프, 디버프형) : 함성
 
 mixamo
+
+캐릭터 상태
+Idle, Down, DoAction, Dead, Hitted, Avoid, 
