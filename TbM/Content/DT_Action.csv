@@ -1,0 +1,13 @@
+,Type,Montage,PlayRatio,StartSectionName,Attack,Stop,SoundCue,ProjectileClass
+1,Unarmed,,1,,0,0.1,,
+2,OneHand_FistWeapon,,1.2,,0,0.1,,
+3,OneHand_Sword,,1.2,,0,0.1,,
+4,OneHand_Axe,,1.2,,0,0.1,,
+5,OneHand_Spear,,1.2,,0,0.1,,
+6,OneHand_Blunt,,1.2,,0,0.1,,
+7,TwoHand_Sword,,1.4,,0,0.1,,
+8,TwoHand_Axe,,1.4,,0,0.1,,
+9,TwoHand_Spear,,1.4,,0,0.1,,
+10,TwoHand_Polearm,,1.4,,0,0.1,,
+11,TwoHand_Blunt,,1.4,,0,0.1,,
+12,Bow,,1.3,,0,0.1,,
